@@ -4,3 +4,10 @@ https://seaniyoung.com/publications.html
 https://seaniyoung.com/teaching-statement.html
 https://seaniyoung.com/research-statement.html
 https://seaniyoung.com/diversity-statement.html
+https://seaniyoung.com/young-fully-convolutional.html
+https://seaniyoung.com/young-supervision-by-denoising.html
+https://seaniyoung.com/young-transform-quantization.html
+https://seaniyoung.com/young-fast-optical-flow-extraction.html
+https://seaniyoung.com/young-non-line-of-sight-surface.html
+https://seaniyoung.com/young-gaussian-lifting.html
+https://seaniyoung.com/young-graph-laplacian.html
